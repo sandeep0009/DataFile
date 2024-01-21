@@ -40,8 +40,6 @@ else:
     print("No data")
 
 
-# In[ ]:
-
 
 
 
