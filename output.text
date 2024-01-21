@@ -1,0 +1,23 @@
+Output:
+
+Employees who have worked for 7 consecutive days:
+No data
+
+Employees with less than 10 hours between shifts but greater than 1 hours:
+        Employee Name Position ID
+2     REsaXiaWE, XAis   WFS000065
+4     REsaXiaWE, XAis   WFS000065
+6     REsaXiaWE, XAis   WFS000065
+8     REsaXiaWE, XAis   WFS000065
+10    REsaXiaWE, XAis   WFS000065
+...               ...         ...
+1474  WgAyeW, RayCEWd   WFS000589
+1476  WgAyeW, RayCEWd   WFS000589
+1478  WgAyeW, RayCEWd   WFS000589
+1480  WgAyeW, RayCEWd   WFS000589
+1482  WgAyeW, RayCEWd   WFS000589
+
+[691 rows x 2 columns]
+
+Employees who have worked for more than 14 hours in a single shift:
+No data
